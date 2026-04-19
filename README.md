@@ -146,7 +146,7 @@ received_files/
 
 ## 👨‍💻 Author
 
-**Chakri**
+**Charan Kumar Reddy**
 
 ---
 
