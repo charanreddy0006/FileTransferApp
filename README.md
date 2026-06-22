@@ -49,7 +49,8 @@ This project is a **simple yet powerful file transfer system** that enables user
 | 📱 Android (Java) | Mobile App     |
 | 🐍 Flask (Python) | Backend Server |
 | 🌐 HTTP Protocol  | Communication  |
-| 📡 WiFi/Hotspot   | Data Transfer  |
+| 📡 WiFi/Hotspots 
+| Data Transfer  |
 
 ---
 
