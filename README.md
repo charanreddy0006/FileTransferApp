@@ -1,4 +1,4 @@
-# 🚀 File Transfer App (Android ➜ Laptop)
+# 🚀 File Transfer App (Android ➜ Laptop) using single click 
 
 <p align="center">
   📱➡️💻 <b>Seamless File Transfer over Local Network</b><br>
